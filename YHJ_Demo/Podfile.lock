@@ -1,0 +1,25 @@
+PODS:
+  - CYLTabBarController (1.10.0)
+  - XCKit (1.0.4)
+
+DEPENDENCIES:
+  - CYLTabBarController
+  - XCKit (from `https://git.coding.net/LXChun/XCKit.git`, tag `1.0.4`)
+
+EXTERNAL SOURCES:
+  XCKit:
+    :git: https://git.coding.net/LXChun/XCKit.git
+    :tag: 1.0.4
+
+CHECKOUT OPTIONS:
+  XCKit:
+    :git: https://git.coding.net/LXChun/XCKit.git
+    :tag: 1.0.4
+
+SPEC CHECKSUMS:
+  CYLTabBarController: 2de9a4c26f50d33574398becf8e7b0aaed794240
+  XCKit: 8531a25be2ac7ecb8c0bce6ddc4f24e9abc893fb
+
+PODFILE CHECKSUM: 6a931e26e5d468748fafaaa6cd4c7cc25652abfa
+
+COCOAPODS: 1.2.0

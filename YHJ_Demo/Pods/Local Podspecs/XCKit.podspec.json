@@ -1,0 +1,27 @@
+{
+  "name": "XCKit",
+  "version": "1.0.4",
+  "summary": "XCKit is collection of class faster",
+  "description": "What does it do?\n================\nXCKit adds some useful method to some classes.\n###Foundation:\n###UIKit:\n- UIControl\n- UINavigationBar\n- UITableView\n- UIColor",
+  "homepage": "https://coding.net/u/LXChun/p/XCKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LXC": "1817423481@qq.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://git.coding.net/LXChun/XCKit.git",
+    "tag": "1.0.4"
+  },
+  "source_files": [
+    "XCKit",
+    "XCKit/*.{h,m}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

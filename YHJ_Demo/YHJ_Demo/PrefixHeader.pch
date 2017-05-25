@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  YHJ_Demo
+//
+//  Created by yhj on 2017/5/5.
+//  Copyright © 2017年 VG. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Common.h"
+#import "ColorHeader.h"
+#import "Util.h"
+#import "UIView+Frame.h"
+
+
+// 库
+#import <CYLTabBarController.h>
+
+#endif /* PrefixHeader_pch */
